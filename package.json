@@ -1,0 +1,20 @@
+{
+  "name": "flume-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmix/flume-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mixmix/flume-intro/issues"
+  },
+  "homepage": "https://github.com/mixmix/flume-intro#readme"
+}
