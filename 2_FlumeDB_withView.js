@@ -29,12 +29,16 @@ var flumeView = FlumeReduce(
 var db = Flume(log)
   .use('sumer', flumeView)
 
-pull(
-  db.stream({ live: true }),
-  pull.drain(
-    viewState => console.log('FlumeDB.stream:', viewState) 
-  )
-)
+console.log('sumer', db.sumer)
+db.sumer.value(val => console.log('obs', val))
+
+
+// pull(
+//   db.stream({ live: true }),
+//   pull.drain(
+//     viewState => console.log('FlumeDB.stream:', viewState) 
+//   )
+// )
 
 // this stream is returning mapped values (not map-reduced values D:)
 pull(
