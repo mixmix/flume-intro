@@ -1,3 +1,5 @@
 flumelog
 package-lock.json
 node_modules
+demo_log
+stats.json
