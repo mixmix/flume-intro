@@ -21,7 +21,7 @@ node 1_write_to_flume.js
 ```
 
 Note that at the end of this I hit some bumps trying to install the flumeview as a scuttlebot plugin.
-I managed to resolve that after the stream, you can check it out here : ([ssb](%f2PZYbacgJpNq4buNCVsjG6j55K8olw80QxPjF2Teqs=.sha256) | [github](https://www.github.com:mixmix/ssb-server-plugin-intro))
+I managed to resolve that after the stream, you can check it out here : ([ssb](%f2PZYbacgJpNq4buNCVsjG6j55K8olw80QxPjF2Teqs=.sha256) | [github](https://www.github.com/mixmix/ssb-server-plugin-intro))
 
 
 ## PREP
@@ -31,5 +31,5 @@ I managed to resolve that after the stream, you can check it out here : ([ssb](%
 
 resources: 
 - https://github.com/ssbc/scuttlebutt-guide
-- how to install a flumeview as an scuttlebot plugin : ([ssb](%f2PZYbacgJpNq4buNCVsjG6j55K8olw80QxPjF2Teqs=.sha256) | [github](https://www.github.com:mixmix/ssb-server-plugin-intro))
+- how to install a flumeview as an scuttlebot plugin : ([ssb](%f2PZYbacgJpNq4buNCVsjG6j55K8olw80QxPjF2Teqs=.sha256) | [github](https://www.github.com/mixmix/ssb-server-plugin-intro))
 
